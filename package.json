@@ -1,0 +1,14 @@
+{
+  "id": "200wad",
+  "name": "200 Words a Day",
+  "version": "1.0.0",
+  "description": "200 Words a Day",
+  "main": "index.js",
+  "author": "Miguel Piedrafita <soy@miguelpiedrafita.com>",
+  "license": "MIT",
+  "repository": "https://github.com/m1guelpf/franz-200wad",
+  "config": {
+    "serviceURL": "https://200wordsaday.com",
+    "hasNotificationSound": true
+  }
+}
